@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Retrofit_</string>
+    <string name="userid">UserId</string>
+    <string name="id">ID</string>
+    <string name="title">Title</string>
+    <string name="completed">Completed</string>
+    <string name="todo">TODO</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="title1">title1</string>
+</resources>
